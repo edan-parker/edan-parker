@@ -1,4 +1,8 @@
-### Hi there 👋
+### 😎 Hey, my name is Edan!
+- 📍 I'm currently living in Montreal, Québec in Canada 🥶
+- 🔭 I’m currently working at [Wave Financial](https://www.waveapps.com/), building a mobile frontend in React Native
+- 🌱 I’m currently learning how to design more efficient frontends by reading [patterns.dev](https://www.patterns.dev/)
+- 📫 You can reach me at parker.edan@gmail.com
 
 <!--
 **edan-parker/edan-parker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
