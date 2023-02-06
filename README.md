@@ -1,7 +1,6 @@
 ### 😎 Hey, my name is Edan!
-- 📍 I'm currently living in Montreal, Québec in Canada 🥶
-- 🔭 I’m currently working at [Wave Financial](https://www.waveapps.com/), building a mobile frontend in React Native
-- 🌱 I’m currently deepening my SQL knowledge by reading [SQLforDevs](https://sqlfordevs.com/)
+- 📍 I'm currently living in Toronto, Ontario in Canada 🥶
+- 🔭 I’m currently working at [Wave Financial](https://www.waveapps.com/), doing full stack development with React, GraphQL and Django
 - 📫 You can reach me at parker.edan@gmail.com
 
 <!--
